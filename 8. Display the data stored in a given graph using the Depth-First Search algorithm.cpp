@@ -42,3 +42,15 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter number of vertices and edges: 6 6
+Enter edges:
+0 1
+0 2
+1 3
+1 4
+2 5
+4 5
+Enter starting vertex: 0
+DFS Traversal: 0 1 3 4 5 2 
