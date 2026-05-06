@@ -52,3 +52,11 @@ int main() {
 
     return 0;
 }
+
+output
+Enter size: 5
+Enter elements:
+10 7 8 9 1
+Sorted array:
+1 7 8 9 10 
+Comparisons = 10
