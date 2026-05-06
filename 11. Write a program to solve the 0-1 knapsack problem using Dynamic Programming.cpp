@@ -51,3 +51,12 @@ int main() {
 
     return 0;
 }
+
+output
+Enter number of items: 3
+Enter weights:
+10 20 30
+Enter profits:
+60 100 120
+Enter capacity: 50
+Maximum Profit = 220
