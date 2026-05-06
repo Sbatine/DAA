@@ -77,3 +77,11 @@ int main() {
 
     return 0;
 }
+
+output
+Enter size: 5
+Enter elements:
+8 3 1 6 2
+Sorted array:
+1 2 3 6 8 
+Comparisons = 7
