@@ -61,3 +61,20 @@ int main() {
 
     return 0;
 }
+
+
+output
+Enter number of vertices: 5
+Enter adjacency matrix:
+0 10 0 30 100
+10 0 50 0 0
+0 50 0 20 10
+30 0 20 0 60
+100 0 10 60 0
+Enter source vertex: 0
+Vertex  Distance
+0       0
+1       10
+2       50
+3       30
+4       60
