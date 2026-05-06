@@ -21,6 +21,13 @@ void countSort(int arr[], int n) {
             arr[index++]=i;
         }
     }
+
+    output
+        Enter size: 6
+Enter elements:
+4 2 2 8 3 3
+Sorted array:
+2 2 3 3 4 8 
 }
 
 int main() {
