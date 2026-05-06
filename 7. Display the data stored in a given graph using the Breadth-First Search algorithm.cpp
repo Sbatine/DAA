@@ -52,3 +52,13 @@ int main() {
 
     return 0;
 }
+
+output
+Enter number of vertices and edges: 5 4
+Enter edges:
+0 1
+0 2
+1 3
+2 4
+Enter starting vertex: 0
+BFS Traversal: 0 1 2 3 4 
