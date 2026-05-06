@@ -59,3 +59,16 @@ int main() {
 
     return 0;
 }
+
+
+output
+Enter number of vertices: 4
+Enter cost matrix:
+0 2 0 6
+2 0 3 8
+0 3 0 0
+6 8 0 0
+0 - 1 = 2
+1 - 2 = 3
+0 - 3 = 6
+Minimum Cost = 11
