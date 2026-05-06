@@ -47,3 +47,12 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter size of array: 5
+Enter elements:
+5 2 4 1 3
+5 2 4 1 3
+Sorted array:
+1 2 3 4 5
+Comparisons = 9
