@@ -57,3 +57,14 @@ int main() {
 
     return 0;
 }
+
+output
+Enter Matrix A:
+1 2
+3 4
+Enter Matrix B:
+5 6
+7 8
+Result Matrix:
+19 22 
+43 50 
