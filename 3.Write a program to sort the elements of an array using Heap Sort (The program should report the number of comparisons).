@@ -59,3 +59,11 @@ int main() {
 
     return 0;
 }
+
+output
+Enter size: 5
+Enter elements:
+9 4 7 1 3
+Sorted array:
+1 3 4 7 9 
+Comparisons = 9
